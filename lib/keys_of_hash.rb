@@ -8,7 +8,4 @@ class Hash
         end
       end
     end
-    matches
-    
-  end
-end
+    array
