@@ -9,3 +9,5 @@ class Hash
       end
     end
     array
+  end
+end
